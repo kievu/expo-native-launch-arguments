@@ -1,0 +1,10 @@
+{
+  "platforms": ["ios", "android"],
+  "ios": {
+    "modules": ["LaunchArgumentsModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.launcharguments.LaunchArgumentsModule"]
+  }
+}
+

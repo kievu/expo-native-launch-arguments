@@ -1,0 +1,43 @@
+{
+  "name": "expo-native-launch-arguments",
+  "title": "Expo Native Launch Arguments",
+  "version": "5.0.0",
+  "description": "Expo module for getting launch arguments",
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
+  "scripts": {
+    "build": "expo-module build",
+    "clean": "expo-module clean",
+    "lint": "expo-module lint",
+    "test": "expo-module test",
+    "prepare": "expo-module prepare",
+    "prepublishOnly": "expo-module prepublishOnly",
+    "expo-module": "expo-module"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamolegga/expo-native-launch-arguments.git",
+    "baseUrl": "https://github.com/iamolegga/expo-native-launch-arguments"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "react-native",
+    "expo",
+    "launch",
+    "arguments"
+  ],
+  "author": {
+    "name": "iamolegga",
+    "email": "iamolegga@gmail.com"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "expo-module-scripts": "5.0.8",
+    "expo-modules-core": "3.0.28"
+  },
+  "peerDependencies": {
+    "expo": "*",
+    "react": "*"
+  }
+}

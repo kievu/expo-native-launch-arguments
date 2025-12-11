@@ -1,0 +1,19 @@
+plugins {
+  id 'com.android.library'
+  id 'expo-module-gradle-plugin'
+}
+
+group = 'host.exp.exponent'
+version = '5.0.0'
+
+android {
+  namespace "expo.modules.launcharguments"
+  defaultConfig {
+    versionCode 1
+    versionName '5.0.0'
+  }
+}
+
+dependencies {
+  // Add any additional dependencies here if needed
+}
