@@ -16,8 +16,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iamolegga/expo-native-launch-arguments.git",
-    "baseUrl": "https://github.com/iamolegga/expo-native-launch-arguments"
+    "url": "git+https://github.com/kievu/expo-native-launch-arguments.git",
+    "baseUrl": "https://github.com/kievu/expo-native-launch-arguments"
   },
   "keywords": [
     "react",
